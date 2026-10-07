@@ -1,0 +1,276 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 780" width="1400" height="780" font-family="Noto Sans TC, Microsoft JhengHei, PingFang TC, sans-serif">
+  <defs><marker id="ar-green" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="7.5" markerHeight="7.5" orient="auto-start-reverse"><path d="M0 1 L11 6 L0 11 z" fill="#059669"/></marker><marker id="ar-blue" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="7.5" markerHeight="7.5" orient="auto-start-reverse"><path d="M0 1 L11 6 L0 11 z" fill="#2563eb"/></marker><marker id="ar-orange" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="7.5" markerHeight="7.5" orient="auto-start-reverse"><path d="M0 1 L11 6 L0 11 z" fill="#ea580c"/></marker></defs>
+  <rect width="1400" height="780" fill="#ffffff"/>
+  <g transform='translate(82.727,362.000) scale(0.22039)'>
+<g id="Cluster_server">
+</g>
+<g>
+	<g>
+		<path fill="#059669" d="M464.8,181.4H327.5c-9.4,0-17.2,7.7-17.2,17.2v334.8H482V198.6C482,189.1,474.3,181.4,464.8,181.4z
+			 M456.2,499H336.1v-17.2h120.2V499z M456.2,464.6H336.1v-17.2h120.2V464.6z M456.2,250.1H336.1v-17.2h120.2V250.1z"/>
+		<g>
+			<path fill="#059669" d="M559.2,87H421.9c-9.4,0-17.2,7.7-17.2,17.2v60.1h60.1c18.9,0,34.3,15.5,34.3,34.3v154.5h51.5v17.2h-51.5
+				v17.2h51.5v17.2h-51.5v34.3h77.3V104.1C576.4,94.7,568.7,87,559.2,87z M550.6,155.6H430.5v-17.2h120.2V155.6z"/>
+		</g>
+		<g>
+			<path fill="#059669" d="M293.1,404.6h-51.5v-17.2h51.5v-17.2h-51.5v-17.2h51.5V198.6c0-18.9,15.5-34.3,34.3-34.3h60.1v-60.1
+				c0-9.4-7.7-17.2-17.2-17.2H233.1c-9.4,0-17.2,7.7-17.2,17.2v334.8h77.3V404.6z M241.6,138.5h120.2v17.2H241.6V138.5z"/>
+		</g>
+	</g>
+	<g id="Layer_1_1_">
+	</g>
+	<g id="Access_control">
+	</g>
+	<g id="Azure_active_directory">
+	</g>
+	<g id="symbols">
+	</g>
+</g>
+</g>
+  <text x="170" y="376.0" font-size="25" fill="#bf181f" text-anchor="middle" font-weight="700">The engine</text>
+  <text x="170" y="496.0" font-size="20" fill="#16202a" text-anchor="middle" font-weight="700">built from source</text>
+  <text x="170" y="520.0" font-size="18" fill="#64748b" text-anchor="middle">one make command</text>
+  <path d="M236 430 H 668" stroke="#059669" stroke-width="2.6" fill="none" marker-end="url(#ar-green)"/>
+  <text x="440" y="412" font-size="20" fill="#16202a" text-anchor="middle" font-weight="700">2. compiled for this chip</text>
+  <g transform='translate(111.463,594.767) scale(0.14782)'>
+<g id="Layer_1_1_">
+	<g id="File_x2C__general">
+		
+	</g>
+</g>
+<g id="Access_control">
+</g>
+<g id="Azure_active_directory">
+</g>
+<g id="Generic_code">
+</g>
+<g id="Internet_2">
+	<g id="XMLID_1_">
+		<g>
+			<path fill="#059669" d="M621,310.6c27.5,12.9,45.5,42.1,45.5,75.5c0,38.6-24,71.2-56.7,79.8l-11.2,2.6H208.2
+				c-45.5,0-82.4-41.2-82.4-91s36.9-91,82.4-91c3.4,0,6,0,9.4,0.9c13.7-24,36.9-37.8,62.7-37.8c6.9,0,13.7,0.9,20.6,3.4
+				c0-0.9,0-2.6,0-3.4c0-59.2,42.9-106.4,96.1-106.4c36.9,0,71.2,24.9,86.7,61.8c13.7-8.6,29.2-13.7,45.5-13.7
+				c51.5,0,92.7,46.4,92.7,103C622.7,299.5,621.9,304.6,621,310.6z"/>
+		</g>
+		<g>
+		</g>
+	</g>
+</g>
+<g id="symbols">
+</g>
+<g id="slices">
+</g>
+</g>
+  <text x="170" y="586.0" font-size="25" fill="#bf181f" text-anchor="middle" font-weight="700">Model weights</text>
+  <text x="170" y="706.0" font-size="20" fill="#16202a" text-anchor="middle" font-weight="700">open, MIT licensed</text>
+  <text x="170" y="730.0" font-size="18" fill="#64748b" text-anchor="middle">81 GB, one file</text>
+  <path d="M236 640 H 678 V 496" stroke="#059669" stroke-width="2.6" fill="none" marker-end="url(#ar-green)"/>
+  <text x="440" y="622" font-size="20" fill="#16202a" text-anchor="middle" font-weight="700">3. downloaded once</text>
+  <rect x="58" y="352" width="380" height="368" rx="10" fill="none" stroke="#94a3b8" stroke-width="2" stroke-dasharray="10 6"/>
+  <text x="424" y="706" font-size="25" fill="#bf181f" text-anchor="end" font-weight="700">set up once</text>
+  <g transform='translate(632.017,334.622) scale(2.41823)'>
+<g id="Layer_1">
+	<g id="File_x2C__general">
+		
+	</g>
+	<g id="Message">
+	</g>
+	<g id="Monitor">
+	</g>
+	<g id="Monitor_running_apps">
+	</g>
+	<g id="Mouse">
+	</g>
+	<g id="Network_card">
+	</g>
+	<g id="Not_allowed">
+	</g>
+	<g id="Performance">
+	</g>
+	<g id="Phone">
+	</g>
+	<g id="Plug_and_play">
+	</g>
+	<g id="Powershell_script_file">
+	</g>
+	<g id="Protocol_stack">
+	</g>
+	<g id="Queue_x2C__general">
+	</g>
+	<g id="RMS_connector">
+	</g>
+	<g id="Router">
+	</g>
+	<g id="Script_file">
+	</g>
+	<g id="Secure_virtual_machine">
+	</g>
+</g>
+<g id="paths">
+	<g id="Access_control">
+	</g>
+	<g id="Azure_active_directory">
+	</g>
+	<g id="Generic_code">
+	</g>
+	<g id="Laptop">
+	</g>
+	<g id="Load_balancer">
+	</g>
+	<g id="Lock_x2C__protected">
+	</g>
+</g>
+<g id="symbols">
+	<g>
+		<path fill="#7c3aed" d="M52.6,19.1h-16c-1.1,0-2,0.9-2,2v39h20v-39C54.6,20,53.7,19.1,52.6,19.1z M51.6,56.1h-14v-2h14V56.1z
+			 M51.6,52.1h-14v-2h14V52.1z M51.6,27.1h-14v-2h14V27.1z"/>
+	</g>
+</g>
+<g id="slices">
+</g>
+</g>
+  <text x="740" y="560" font-size="25" fill="#bf181f" text-anchor="middle" font-weight="700">Your desktop box</text>
+  <text x="740" y="590" font-size="20" fill="#16202a" text-anchor="middle" font-weight="700">Ryzen AI Max+ 395</text>
+  <g transform='translate(221.300,-77.800) scale(2.00000)'>
+<g id="group100-187_1_" transform="translate(43.2593,-3764.95)">
+	
+	<g id="shape101-188_1_" transform="translate(7.20825,-11.5207)">
+		
+		<path fill="#2563eb" d="M58.6,3867.9c-5,1.2-7.9,6.7-6.5,12.3c1.4,5.6,6.5,9,11.5,7.8c5-1.2,7.9-6.7,6.5-12.3
+			C68.7,3870.2,63.6,3866.7,58.6,3867.9z"/>
+	</g>
+	<g id="shape102-190_1_">
+		
+		<path fill="#2563eb" d="M76.5,3878c-0.9-0.1-2,1.7-3.4,2.4c-1.4,0.6-2.9,1.9-6.9,0c-4-1.9-4.6-3.5-8-3.5c-3.4,0-8.8,6-8.9,14.7h34
+			c-0.1,0-0.4-6-2.3-9.2C78.7,3878.1,77.5,3878,76.5,3878z"/>
+	</g>
+</g>
+</g>
+  <text x="440" y="90.0" font-size="25" fill="#bf181f" text-anchor="middle" font-weight="700">You</text>
+  <text x="440" y="202.0" font-size="20" fill="#16202a" text-anchor="middle" font-weight="700">at your desk</text>
+  <path d="M482 140 H 726" stroke="#2563eb" stroke-width="2.6" fill="none" marker-end="url(#ar-blue)"/>
+  <text x="604" y="96" font-size="20" fill="#16202a" text-anchor="middle" font-weight="700">1. pick a size</text>
+  <text x="604" y="120" font-size="20" fill="#16202a" text-anchor="middle" font-weight="700">that fits</text>
+  <g transform='translate(716.471,76.381) scale(1.78453)'>
+<g id="Layer_1">
+	<g id="File_x2C__general">
+		
+	</g>
+	<g id="Message">
+	</g>
+	<g id="Monitor">
+		<g id="shape952-1942_1_" transform="translate(43.917,-3621.38)">
+			<path fill="#2563eb" d="M9.3,3638.5h-35.4c-1.2,0-2.2,1.1-2.2,2.3v24.8c0,1.2,1,2,2.2,2H-14c1.3,4.6-0.5,5.6-8.1,5.6v2.4h9.8h7.1
+				H5.7v-2.4c-7.7,0-10.1-1-8.8-5.6H9.3c1.2,0,2.4-0.8,2.4-2v-24.8C11.7,3639.6,10.5,3638.5,9.3,3638.5z M8.7,3641.5v23h-34v-23H8.7
+				L8.7,3641.5z"/>
+		</g>
+	</g>
+</g>
+<g id="paths">
+	<g id="Access_control">
+	</g>
+	<g id="Azure_active_directory">
+	</g>
+	<g id="Generic_code">
+	</g>
+	<g id="Laptop">
+	</g>
+	<g id="Load_balancer">
+	</g>
+	<g id="Lock_x2C__protected">
+	</g>
+</g>
+<g id="symbols">
+</g>
+<g id="slices">
+</g>
+</g>
+  <text x="780" y="90.0" font-size="25" fill="#bf181f" text-anchor="middle" font-weight="700">Chat page</text>
+  <text x="780" y="202.0" font-size="20" fill="#16202a" text-anchor="middle" font-weight="700">in the browser</text>
+  <path d="M722 212 V 376" stroke="#2563eb" stroke-width="2.6" fill="none" marker-end="url(#ar-blue)"/>
+  <text x="704" y="300" font-size="20" fill="#16202a" text-anchor="end" font-weight="700">4. you ask</text>
+  <path d="M770 376 V 212" stroke="#2563eb" stroke-width="2.6" fill="none" marker-end="url(#ar-blue)"/>
+  <text x="788" y="300" font-size="20" fill="#16202a" text-anchor="start" font-weight="700">5. words stream back</text>
+  <rect x="390" y="70" width="470" height="212" rx="10" fill="none" stroke="#94a3b8" stroke-width="2" stroke-dasharray="10 6"/>
+  <text x="846" y="268" font-size="25" fill="#bf181f" text-anchor="end" font-weight="700">you, at the keyboard</text>
+  <g transform='translate(1092.903,70.305) scale(0.23460)'>
+<g id="Layer_1_1_">
+</g>
+<g id="Access_control">
+</g>
+<g id="Azure_active_directory">
+</g>
+<g id="Application_server">
+	<g>
+		<g>
+			<path fill="#ea580c" d="M374.2,118.3H236.9c-9.4,0-17.2,7.7-17.2,17.2v334.8h94.4v-34.3h-68.7v-17.2h68.7v-17.2h-68.7v-17.2h68.7
+				v-51.5v-8.6h8.6h51.5c5.2,0,8.6,0,17.2,0V135.5C391.4,126,383.6,118.3,374.2,118.3z M365.6,187H245.4v-17.2h120.2
+				C365.6,169.8,365.6,187,365.6,187z"/>
+		</g>
+		<g>
+			<path fill="#ea580c" d="M326.1,337.2v133h197.4v-133H326.1z M514.1,459.9H333.9v-94.4h180.3V459.9z"/>
+			<polygon fill="#ea580c" points="351,442.8 411.1,442.8 411.1,382.7 351,382.7 			"/>
+			<polygon fill="#ea580c" points="432.6,442.8 496.9,442.8 496.9,434.2 432.6,434.2 			"/>
+			<polygon fill="#ea580c" points="432.6,425.6 496.9,425.6 496.9,417 432.6,417 			"/>
+			<polygon fill="#ea580c" points="432.6,408.4 496.9,408.4 496.9,399.8 432.6,399.8 			"/>
+			<polygon fill="#ea580c" points="432.6,391.3 496.9,391.3 496.9,382.7 432.6,382.7 			"/>
+		</g>
+	</g>
+</g>
+</g>
+  <text x="1180" y="90.0" font-size="25" fill="#bf181f" text-anchor="middle" font-weight="700">Your own app</text>
+  <text x="1180" y="202.0" font-size="20" fill="#16202a" text-anchor="middle" font-weight="700">same endpoint</text>
+  <path d="M812 398 H 1040 V 140 H 1136" stroke="#ea580c" stroke-width="2.6" fill="none" marker-end="url(#ar-orange)"/>
+  <text x="926" y="382" font-size="20" fill="#16202a" text-anchor="middle" font-weight="700">6. one ordinary chat endpoint</text>
+  <g transform='translate(1088.727,590.595) scale(0.22039)'>
+<g id="paths">
+	<g id="Access_control">
+	</g>
+	<g id="Azure_active_directory">
+	</g>
+	<g id="Generic_code">
+	</g>
+	<g id="Laptop">
+	</g>
+	<g id="Load_balancer">
+	</g>
+	<g id="Lock_x2C__protected">
+	</g>
+</g>
+<g id="symbols">
+</g>
+<g id="slices">
+</g>
+<g id="User">
+</g>
+<g id="Video">
+</g>
+<g id="Virtual_machine_2">
+</g>
+<g id="Web">
+</g>
+<g id="Web_server">
+</g>
+<g id="Windows_server">
+</g>
+<g id="Workstation_client">
+	<g>
+		<path fill="#ea580c" d="M567.7,274.8H346.4c-3.9,0-7.9,3.2-7.9,7.9v140.2c0,3.9,3.2,10.2,7.9,10.2h94.5c0,8.7,0,14.2,0,15
+			c0,4.7-7.1,13.4-12.6,13.4c-1.6,0-15.8,0-15.8,0c-17.3,0-29.9,4.7-29.9,14.2c0,4.7-0.8,4.7,16.5,4.7c0,0,4.7,0,8.7,0
+			c13.4,0,15.8-7.9,29.1-7.9c4.7,0,29.1,0,33.9,0c13.4,0,23.6,7.9,32.3,7.9c4.7,0,8.7,0,8.7,0c17.3,0,17.3-0.8,17.3-4.7
+			c0-8.7-13.4-14.2-30.7-14.2c0,0-14.2,0-15.8,0c-4.7,0-11-8.7-11-13.4c0-0.8,0-6.3,0-15h94.5c3.9,0,7.9-5.5,7.9-10.2V282.6
+			C575.6,278.7,572.4,274.8,567.7,274.8z M552,408.7h-189V298.4h189V408.7z"/>
+		<g>
+			<path fill="#ea580c" d="M323.5,400.8V282.6c0-12.6,10.2-23.6,23.6-23.6h63v-86.6c0-8.7-7.1-15.8-15.8-15.8h-126
+				c-8.7,0-15.8,7.1-15.8,15.8v307.2h115.8c0-1.6,0-3.9,0-4.7V474c0-5.5,1.6-19.7,22.1-26.8h-3.2H348h-70.9v-15.8h49.6
+				c-1.6-3.2-2.4-7.1-2.4-10.2v-5.5h-47.3V400h46.5V400.8z M276.3,196h110.3v23.6H276.3V196z"/>
+		</g>
+	</g>
+</g>
+</g>
+  <text x="1180" y="610.0" font-size="25" fill="#bf181f" text-anchor="middle" font-weight="700">Coding tools</text>
+  <text x="1180" y="722.0" font-size="20" fill="#16202a" text-anchor="middle" font-weight="700">editor plug-ins</text>
+  <path d="M812 470 H 1040 V 660 H 1136" stroke="#ea580c" stroke-width="2.6" fill="none" marker-end="url(#ar-orange)"/>
+  <text x="926" y="454" font-size="20" fill="#16202a" text-anchor="middle" font-weight="700">7. or any tool that speaks it</text>
+  <text x="58" y="756" font-size="20" fill="#16202a" text-anchor="start" font-weight="700">Steps 2 and 3 happen once. After that the box answers at 13 to 41 words a second, and nothing leaves the machine.</text>
+</svg>
