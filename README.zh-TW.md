@@ -1,12 +1,13 @@
 # 用AMD AI 395（Strix Halo）跑大模型
 
+[English](README.md) ｜ **繁體中文**
+
 這份記錄的是在一台**Ryzen AI Max+ PRO 395**桌機上跑大型混合專家模型的實測數字與版本陷阱。
 這顆晶片的其他叫法有**Strix Halo**、**AI 395**、**gfx1151**，顯示核心是**Radeon 8060S**，
 配**128GB統一記憶體**。
 
 兩套引擎、兩顆模型、一台機器，量測時機器上沒有跑別的東西。下面每個數字都是量出來的，不是估的。
 
-[English](README.md)
 
 ![這台能跑什麼、有多快](docs/overview.png)
 

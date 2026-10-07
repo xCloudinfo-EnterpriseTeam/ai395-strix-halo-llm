@@ -1,5 +1,7 @@
 # Big models on an AMD AI 395 (Strix Halo)
 
+**English** ｜ [繁體中文](README.zh-TW.md)
+
 Measured numbers and version traps for running large mixture-of-experts models on a
 **Ryzen AI Max+ PRO 395** desktop — the chip also sold as **Strix Halo**, **AI 395**,
 **gfx1151**, with **Radeon 8060S** graphics and **128 GB of unified memory**.
