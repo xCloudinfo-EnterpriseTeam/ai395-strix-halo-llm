@@ -139,6 +139,8 @@ Strata則是它伺服器log裡每個請求的計時。
 模型是[DeepSeek](https://huggingface.co/deepseek-ai)與[Qwen](https://huggingface.co/Qwen)，
 同樣MIT。**這個repo貢獻的是實測數字、一份版本相容性對照、以及一個送上游的修補——不是一項技術。**
 
-由[云碩科技股份有限公司（xCloudinfo）](https://hf.co/xCloudinfo)發布，採CC BY 4.0。
+由[云碩科技股份有限公司（xCloudinfo）](https://hf.co/xCloudinfo)發布。
+文字、表格與圖採[CC BY 4.0](LICENSE)；程式碼檔案（`hip_memcpy_check.c`與`docs/`底下的產圖腳本）
+另外採[MIT授權](LICENSE-CODE)，可以直接複製進你自己的專案。
 歡迎指正，也歡迎其他Strix Halo機器的數字：開一個issue並附上你的ROCm版本、核心版本、
 BIOS劃給顯示核心的大小，以及引擎自己的效能輸出。

@@ -146,6 +146,8 @@ The engines are other people's work and both are MIT licensed:
 also MIT. This repository contributes measurements, a compatibility map and one upstream
 patch — not a technique.
 
-Published by [xCloudinfo Corp. Limited（云碩科技股份有限公司）](https://hf.co/xCloudinfo)
-under CC BY 4.0. Corrections and numbers from other Strix Halo boxes are welcome; open an
+Published by [xCloudinfo Corp. Limited（云碩科技股份有限公司）](https://hf.co/xCloudinfo).
+The prose, tables and diagrams are [CC BY 4.0](LICENSE); the source files
+(`hip_memcpy_check.c` and the generators under `docs/`) are also available under
+the [MIT licence](LICENSE-CODE), so you can paste them into your own work. Corrections and numbers from other Strix Halo boxes are welcome; open an
 issue with your ROCm version, kernel, carve-out size and the engine's own benchmark output.
